@@ -50,16 +50,11 @@ Criar um modelo de aprendizado de máquina utilizando **Random Forest** para pre
 ## Como Executar o Projeto
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/MatheusGustavoo/employee_churn.git
    ```
-2. Instale as dependências:
-   ```bash
-   pip install -r requirements.txt
+2. Instale em seu ambiente virtual todas as depêndencias importadas no inicio do arqivo .ipynb.
    ```
-3. Execute o script principal:
-   ```bash
-   python estudo.py
-   ```
+3. Execute o nootebook.
 
 ## Conclusão
 Este projeto demonstrou a eficácia do uso de aprendizado de máquina para prever churn de funcionários e identificar fatores-chave que podem ajudar a empresa a reter talentos. A análise de SHAP foi essencial para interpretar os resultados e criar possíveis estratégias para mitigar a saída de profissionais valiosos.
